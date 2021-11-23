@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"number is 9763577243"<<endl;
+cout<<"number is 9736577243"<<endl;
 return 0;
 }
